@@ -4,9 +4,9 @@
 
 # Do not use this in production. Sample purpose only.
 
-# Author: Upkar Lidder (IBM)
+# Author: Lokesh7777
 # Additional Authors:
-# luckylokesh777@gmail.com/Lokesh7777
+# luckylokesh777@gmail.com
 
 # Input:
 # p, principal amount
